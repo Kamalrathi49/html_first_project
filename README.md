@@ -29,19 +29,6 @@
   <img align="center" width="44%" src="https://camo.githubusercontent.com/41ebb4726dc9ac4f5e7ffadfeb82baafef2508ba/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d64656570616b6268616d6c61266c696e655f6865696768743d3237266c61796f75743d636f6d70616374267468656d653d7261646963616c267469746c655f636f6c6f723d30303030303026746578745f636f6c6f723d3030303030302669636f6e5f636f6c6f723d3735373537352662675f636f6c6f723d666666666666" data-canonical-src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KamalRathi&amp;line_height=27&amp;layout=compact&amp;theme=radical&amp;title_color=000000&amp;text_color=000000&amp;icon_color=757575&amp;bg_color=ffffff" style="max-width:100%;">
 </a>
 <h3><a id="user-content-profile-stats-" class="anchor" aria-hidden="true" href="#profile-stats-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Profile Stats <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji></h3>
-<p>
-  <a href="https://badges.pufler.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/267be5204a6e490b534b19b0abdc970852f4d5e0/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f64656570616b6268616d6c612f64656570616b6268616d6c613f7374796c653d666c61742d73717561726526636f6c6f723d626c61636b266c6f676f3d676974687562" data-canonical-src="https://badges.pufler.dev/visits/deepakbhamla/deepakbhamla?style=flat-square&amp;color=black&amp;logo=github" style="max-width:100%;">
-  </a>
-  <a href="https://badges.pufler.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/9ef602291c89232668d9e16ae8467ffa26639837/68747470733a2f2f6261646765732e7075666c65722e6465762f79656172732f64656570616b6268616d6c613f7374796c653d666c61742d73717561726526636f6c6f723d626c61636b266c6f676f3d676974687562" data-canonical-src="https://badges.pufler.dev/years/deepakbhamla?style=flat-square&amp;color=black&amp;logo=github" style="max-width:100%;">
-  </a>
-  <a href="https://badges.pufler.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a3f6e5258d9cbcc214e712109913fa13412c6b23/68747470733a2f2f6261646765732e7075666c65722e6465762f7265706f732f64656570616b6268616d6c613f7374796c653d666c61742d73717561726526636f6c6f723d626c61636b266c6f676f3d676974687562" data-canonical-src="https://badges.pufler.dev/repos/deepakbhamla?style=flat-square&amp;color=black&amp;logo=github" style="max-width:100%;">
-  </a>
-   <a href="https://badges.pufler.dev" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/064abf7b81860e49abdf534a48d84af435a5bc5f/68747470733a2f2f6261646765732e7075666c65722e6465762f636f6d6d6974732f6d6f6e74686c792f64656570616b6268616d6c613f7374796c653d666c61742d73717561726526636f6c6f723d626c61636b266c6f676f3d676974687562" data-canonical-src="https://badges.pufler.dev/commits/monthly/deepakbhamla?style=flat-square&amp;color=black&amp;logo=github" style="max-width:100%;">
-  </a>
-  </p>
+
 <br>
 </article>
